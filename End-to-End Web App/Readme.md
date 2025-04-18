@@ -32,4 +32,5 @@ Deploy Your Website
 Deploy the website using AWS Amplify's hosting service. Run amplify publish to upload the project to an Amplify-managed hosting environment.
 Amplify will provide you with a URL to access your deployed website.
 
+![alt text](power-of-math.jpg)
 Conclusion AWS Amplify, coupled with Lambda, API Gateway, IAM, and DynamoDB, offers a seamless workflow for building robust and scalable applications. By following these steps, you can easily deploy your math calculation website and leverage the power of serverless architecture.
