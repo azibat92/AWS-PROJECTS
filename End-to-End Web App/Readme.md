@@ -2,7 +2,7 @@
 
 AWS Amplify simplifies the process of building and deploying web applications by providing a powerful set of tools and services. Below is a step-by-step guide to deploy a math calculation website that integrates Lambda functions, API Gateway, DynamoDB, and IAM for permissions management.
 
-Create Your Project with AWS Amplify
+To Create the Project with AWS Amplify;
 
 Start by setting up an Amplify project using the CLI. Run amplify init in your terminal to initialize your project.
 Use the text editor to create a simple index.html file for your website. This file will contain the front-end interface for math calculations.
