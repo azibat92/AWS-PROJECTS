@@ -1,6 +1,4 @@
-## End-to-End Web Application
-
-Deploying a Math Calculation Website Using AWS Amplify
+## Deploying a Math Calculation Website Using AWS Amplify
 
 AWS Amplify simplifies the process of building and deploying web applications by providing a powerful set of tools and services. Below is a step-by-step guide to deploy a math calculation website that integrates Lambda functions, API Gateway, DynamoDB, and IAM for permissions management.
 
