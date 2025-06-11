@@ -62,7 +62,9 @@ Lab Tasks Overview:
  9. Perform failure testing by terminating instances or disabling AZs to verify HA.
 
 ---
-![alt text](Scalable web application.jpg)
+![alt text](Scalable-web-application.jpg)
+---
+
 Deliverables: 
 
 - Deployed infrastructure (web app + Dynao DB + CDN + Auto-scaling).
